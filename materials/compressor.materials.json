@@ -1,0 +1,57 @@
+{
+  "schema": "hvaclab-materials-1",
+  "component": "@hvaclab/compressor",
+  "synthetic": true,
+  "note": "Synthetic example data, not engineering data.",
+  "totalMassKg": 9.8,
+  "materials": [
+    {
+      "part": "Shell and end caps",
+      "name": "Steel, cold rolled",
+      "standardGrade": "EN 10130 DC04",
+      "densityKgPerM3": 7850,
+      "massFraction": 0.46,
+      "notes": "Deep-drawn hermetic shell"
+    },
+    {
+      "part": "Cylinder, rolling piston, vane",
+      "name": "Grey cast iron",
+      "standardGrade": "EN-GJL-250",
+      "densityKgPerM3": 7200,
+      "massFraction": 0.2,
+      "notes": "Compression mechanism"
+    },
+    {
+      "part": "Motor stator windings",
+      "name": "Copper, enamelled wire",
+      "standardGrade": "IEC 60317-13",
+      "densityKgPerM3": 8960,
+      "massFraction": 0.12,
+      "notes": "BLDC motor windings"
+    },
+    {
+      "part": "Stator and rotor laminations",
+      "name": "Electrical steel",
+      "standardGrade": "EN 10106 M400-50A",
+      "densityKgPerM3": 7650,
+      "massFraction": 0.17,
+      "notes": "Motor core"
+    },
+    {
+      "part": "Refrigeration oil",
+      "name": "Polyvinyl ether oil",
+      "standardGrade": "FW68S",
+      "densityKgPerM3": 920,
+      "massFraction": 0.04,
+      "notes": "Oil charge about 350 ml"
+    },
+    {
+      "part": "Terminal and seals",
+      "name": "Glass-to-metal seal, PTFE",
+      "standardGrade": "-",
+      "densityKgPerM3": 2200,
+      "massFraction": 0.01,
+      "notes": "Hermetic terminal"
+    }
+  ]
+}
