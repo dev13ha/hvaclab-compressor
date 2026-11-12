@@ -40,10 +40,10 @@
     {
       "part": "Refrigeration oil",
       "name": "Polyvinyl ether oil",
-      "standardGrade": "FW68S",
+      "standardGrade": "FW68DA",
       "densityKgPerM3": 920,
       "massFraction": 0.04,
-      "notes": "Oil charge about 350 ml"
+      "notes": "Oil charge about 380 ml, low-temperature PVE grade"
     },
     {
       "part": "Terminal and seals",
